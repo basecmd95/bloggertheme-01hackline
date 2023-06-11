@@ -1,0 +1,7 @@
+
+number 3 chose one line is may ok, save to add from css tool in blogger customization
+
+* { outline: 1px solid rgba(173, 216, 230); :hover { outline: 1px solid rgba(173, 216, 230); } }
+
+
+* * { outline: 1px solid rgba(173, 216, 230); :hover { outline: 1px solid rgba(173, 216, 230); } }
